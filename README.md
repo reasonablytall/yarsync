@@ -3,7 +3,9 @@ A quick, simple, and swashbuckling tool for synchronizing directories
 
 ## Install
 
-Clone this repository and move `yarsync` somewhere in your path, or call it directly.
+There's an Arch Linux package on the aur: https://aur.archlinux.org/packages/yarsync/
+
+Otherwise clone this repository and move `yarsync` somewhere in your path, or call it directly.
 
 ### Dependences
 
